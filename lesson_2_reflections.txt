@@ -1,0 +1,6 @@
+git log: displays log of all commits from current checked out branch
+git status: displays what files have been modified and/or are ready to add
+git add <file>: adds file to staging area
+git commit: commits file(s) from staging area
+git branch <branch-name>: creates a new branch. useful for context switching, trying new features, etc.
+git branch: without args tells you what branches there are and which one you're on
